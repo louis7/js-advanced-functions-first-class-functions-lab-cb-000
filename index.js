@@ -8,3 +8,4 @@ const returnLastTwoDrivers = function( array ) {
   let last_two = array.slice(-2)
   return last_two;
 };
+let selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
