@@ -16,5 +16,4 @@ function createFareMultiplier(num)
     num * 4;
   };
 
-
 };
